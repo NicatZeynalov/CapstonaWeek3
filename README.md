@@ -1,5 +1,7 @@
 # CapstonaWeek3
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7c158545561943d9b8ca7e933f6073e1)](https://app.codacy.com/manual/NijatZeynalov/Opening-New-Restaurant-in-Baku?utm_source=github.com&utm_medium=referral&utm_content=NijatZeynalov/Opening-New-Restaurant-in-Baku&utm_campaign=Badge_Grade_Dashboard)
+
 The objective of this capstone project is to analyse and select the best locations in the
 city of Baku, Azerbaijan to open a new restaurant. Using data science methodology
 and machine learning techniques like clustering, this project aims to provide solutions
